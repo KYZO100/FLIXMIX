@@ -14,10 +14,10 @@
 
 <div align="center">
 
+![Live](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-blue?logo=tailwind-css)
-![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen?logo=pwa)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 </div>
@@ -56,10 +56,6 @@ Personalize:
 ### 👤 **User Accounts**
 Firebase Auth for secure login and cross-device syncing.
 
-### 📱 **Installable PWA**
-Feels like a native app — fast, optimized.
-
----
 
 ## 🧱 Tech Stack
 
@@ -95,7 +91,6 @@ Feels like a native app — fast, optimized.
 ## 💡 Why Flixmix?
 
 - ⚡ **Optimistic UI for instant updates**
-- 📱 **Full PWA support**
 - 🎨 **Deep customization**
 - 🔥 **Real-time data syncing**
 - 🧩 **Modular and scalable architecture**
