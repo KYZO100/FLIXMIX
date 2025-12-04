@@ -75,7 +75,7 @@ Firebase Auth for secure login and cross-device syncing.
 > Replace the URLs with your actual screenshots.
 
 ### 🏠 Home   
-<img src="https://via.placeholder.com/1200x650?text=Home+Page+Screenshot" />
+<img src="/IMG/home.png" />
 
 ### 🎥 Movie Details  
 <img src="https://via.placeholder.com/1200x650?text=Movie+Details+Screenshot" />
