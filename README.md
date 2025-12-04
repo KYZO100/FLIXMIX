@@ -2,7 +2,7 @@
 ### *Your All-In-One Modern Streaming Experience*
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x300?text=FLIXMIX+BANNER" alt="Flixmix Banner"/>
+  <img src="/IMG/img.png" alt="Flixmix Banner"/>
 </div>
 
 <p align="center">
