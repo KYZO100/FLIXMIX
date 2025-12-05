@@ -97,4 +97,4 @@ Firebase Auth for secure login and cross-device syncing.
 
 ---
 
-npm run dev
+
