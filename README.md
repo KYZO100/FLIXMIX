@@ -1,4 +1,4 @@
-# 🌐🎬 **![FLIXMIX](flixmix.vercel.app)**
+# 🌐🎬 **[FLIXMIX](flixmix.vercel.app)**
 ### *Your All-In-One Modern Streaming Experience*
 
 <div align="center">
