@@ -78,13 +78,13 @@ Firebase Auth for secure login and cross-device syncing.
 <img src="/IMG/home.png" />
 
 ### 🎥 Movie Details  
-<img src="https://via.placeholder.com/1200x650?text=Movie+Details+Screenshot" />
+<img src="IMG/details.png" />
 
 ### 🔍 Search  
-<img src="https://via.placeholder.com/1200x650?text=Search+Page+Screenshot" />
+<img src="IMG/search.png" />
 
 ### 🎨 Customization Page  
-<img src="https://via.placeholder.com/1200x650?text=Theme+Settings+Screenshot" />
+<img src="IMG/settings.png" />
 
 ---
 
