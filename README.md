@@ -89,7 +89,7 @@ Firebase Auth for secure login and cross-device syncing.
 
 ---
 
-## 💡 Why Flixmix?
+## 💡 Why  [FLIXMIX](https://flixmix.vercel.app)?
 
 - ⚡ **Optimistic UI for instant updates**
 - 🎨 **Deep customization**
